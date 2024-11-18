@@ -14,13 +14,13 @@
 
  ## 実行結果の例
  
- クラスタ名のファイル
+ クラスタ名のファイル(全体の例は./data/k3sを参照)
  
  ![image](https://github.com/user-attachments/assets/e22a0c06-0636-4bbd-859a-a7ccbc1ed2a7)
 
 ---
 
- output.csv
+ output.csv(全体の例は./output.csvを参照)
  
  ![image](https://github.com/user-attachments/assets/40d3bf50-f785-4ae6-a3d1-5be88aaf448e)
 
