@@ -15,6 +15,7 @@
  ## 実行結果の例
  
  クラスタ名のファイル(全体の例は./data/k3sを参照)
+ 
  https://github.com/cdsl-research/kube_count_res/blob/main/data/k3s
  
  ![image](https://github.com/user-attachments/assets/e22a0c06-0636-4bbd-859a-a7ccbc1ed2a7)
@@ -22,6 +23,8 @@
 ---
 
  output.csv(全体の例は./output.csvを参照)
+ 
+https://github.com/cdsl-research/kube_count_res/blob/main/output.csv
  
  ![image](https://github.com/user-attachments/assets/40d3bf50-f785-4ae6-a3d1-5be88aaf448e)
 
