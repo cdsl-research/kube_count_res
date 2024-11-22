@@ -7,7 +7,6 @@ clusters=(
 
 for cluster in "${clusters[@]}" ; do
     kubectl config use-context $cluster
-    echo "Current context: $(kubectl config current-context)"
 
     echo "" > data/$cluster
 
