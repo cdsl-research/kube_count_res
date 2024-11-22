@@ -14,6 +14,7 @@
 
  ## 実行結果の例
  ./count_resouece.shの出力
+ 
  ![image](https://github.com/user-attachments/assets/6a9c800f-774c-46d1-b191-f364a315dbaa)
 
  クラスタ名のファイル(全体の例は./data/k3sを参照)
@@ -24,6 +25,7 @@
 
 ---
 ./get_diff.shの出力
+
 ![image](https://github.com/user-attachments/assets/6f142fbb-11f6-4f2d-ae21-7a89d5bd4049)
 
 
