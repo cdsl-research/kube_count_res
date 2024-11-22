@@ -16,4 +16,5 @@ for cluster in "${clusters[@]}" ; do
         echo  "$resource" >> data/$cluster
         kubectl get --ignore-not-found -o name -A $resource | wc -l >> data/$cluster
     done
+    echo "data/$cluster created."
 done
