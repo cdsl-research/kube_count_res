@@ -13,7 +13,9 @@
 8. ./get_diff.shで実行するとoutput.csvに結果が出力されます．
 
  ## 実行結果の例
- 
+ ./count_resouece.shの出力
+ ![image](https://github.com/user-attachments/assets/6a9c800f-774c-46d1-b191-f364a315dbaa)
+
  クラスタ名のファイル(全体の例は./data/k3sを参照)
  
  https://github.com/cdsl-research/kube_count_res/blob/main/data/k3s
@@ -21,6 +23,9 @@
  ![image](https://github.com/user-attachments/assets/e22a0c06-0636-4bbd-859a-a7ccbc1ed2a7)
 
 ---
+./get_diff.shの出力
+![image](https://github.com/user-attachments/assets/6f142fbb-11f6-4f2d-ae21-7a89d5bd4049)
+
 
  output.csv(全体の例は./output.csvを参照)
  
