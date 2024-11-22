@@ -30,3 +30,4 @@ for key in $keys; do
   done
   echo "$line" >> "$output_file"
 done
+echo "$output_file created."
