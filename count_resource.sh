@@ -17,3 +17,5 @@ for cluster in "${clusters[@]}" ; do
     done
     echo "data/$cluster created."
 done
+
+./get_diff.sh
